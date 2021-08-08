@@ -1,0 +1,84 @@
+body{
+  padding-top: 200px;
+  background-image: url(https://www.papeiseparede.com.br/3257-thickbox_default/papel-de-parede-whatsapp-branco-e-azul.jpg);
+}
+
+article{
+  background: black;
+margin: auto;
+width: 800px;
+height: 560px;
+box-shadow: -5px -5px 10px -5px gray;
+}
+
+#p1{
+  background:white;
+  width: 800px;
+  height: 300px;
+}
+#p2,#p3{
+  width: 400px;
+  height: 260px;
+  font-size: 12px;
+  float: left;
+  word-wrap:break-word;
+  color: white;
+}
+/* #p1, #p2,#p3{
+  padding-left: 40px;
+} */
+#p2{
+background: #00CED1;
+
+}
+#p3{
+background: #00FFFF;
+}
+
+h1{
+  position: relative;
+  left: 40px;
+  top: 30px;
+  margin: 0px;
+  font-size: 15pt;
+}
+
+#p1 h1{
+  color: #00CED1;
+  top: 50px;
+}
+
+#preco{
+  position: relative;
+ top: 40px;
+ left: 43px;
+ font-size: 25pt;
+ font-family:Arial, Helvetica, sans-serif
+}
+
+#txt_preco{
+  position: relative;
+  top: 15pt;
+  left: 85pt;
+}
+
+#txt_sec2{
+  position: relative;
+  top:35pt;
+  left: 35pt;
+  font-size: 12pt;
+}
+
+#botao{
+  position: relative;
+  top: 80px;
+  left: 35pt;
+}
+
+.but_externo{
+  width: 305px;
+  height: 28pt;
+  background: #39FF14;
+  color: white;
+}
+
