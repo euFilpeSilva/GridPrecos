@@ -60,6 +60,22 @@ h1{
   position: relative;
   top: 15pt;
   left: 85pt;
+  opacity: 0.7;
+}
+
+#txt_p11{
+  position: relative;
+  top: 60px;
+  left: 40px;
+  color: green;
+  font-weight: 900;
+}
+#txt_p12{
+  position: relative;
+  top:60pt;
+  left: 35pt;
+  font-size: 12pt; 
+  color: gray;
 }
 
 #txt_sec2{
@@ -69,10 +85,19 @@ h1{
   font-size: 12pt;
 }
 
+#txt_p3{
+  position: relative;
+  top:35pt;
+  left: 35pt;
+  font-size: 12pt;
+}
+
+
 #botao{
   position: relative;
   top: 80px;
   left: 35pt;
+  
 }
 
 .but_externo{
@@ -80,5 +105,7 @@ h1{
   height: 28pt;
   background: #39FF14;
   color: white;
+  box-shadow: 0px 0px 10px -5px black;
+  cursor: pointer;
 }
 
